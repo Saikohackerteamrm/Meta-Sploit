@@ -49,9 +49,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **Saiko Boy**
 
 - ⚡ Fun fact **I Am UNEthical Hacker**                                                                                                                                                                                                                                                                                                                             
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/maste/assets/lines/rainbow.png)
-
 # TOOL DEVOLOPED BY TEAM S-H-T 
 
 Website : [Sáíkø Hacker Team {R.M}](http://saikohackerteamrm.free.nf)
